@@ -1,0 +1,10 @@
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\bin\Debug\SaveTextToFile.exe.config
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\bin\Debug\SaveTextToFile.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\bin\Debug\SaveTextToFile.pdb
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.csprojAssemblyReference.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.Form1.resources
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.Properties.Resources.resources
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.csproj.GenerateResource.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.csproj.CoreCompileInputs.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\SaveTextToFile\SaveTextToFile\obj\Debug\SaveTextToFile.pdb
